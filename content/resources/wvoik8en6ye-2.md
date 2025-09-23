@@ -1,0 +1,17 @@
+---
+content_type: resource
+description: ''
+file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/fb9ec061609f55bfa89b2352d1daefed_WVOIk8en6YE.vtt
+file_size: 63152
+file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Other
+title: 3play caption file
+uid: fb9ec061-609f-55bf-a89b-2352d1daefed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
+---

@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/34913a16c2749aec4647cd21c9975d2e_MIT8_821F14_pset1.pdf
 file_size: 89198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

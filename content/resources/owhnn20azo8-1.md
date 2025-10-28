@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/78ae51cd912ce2af18cb144b857e3353_owhNn20aZo8.pdf
 file_size: 100620
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
